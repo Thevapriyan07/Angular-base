@@ -15,3 +15,15 @@ Procedural programming is about writing procedures or functions that perform ope
 - Bigger program size
 - More sluggish projects
 - Not suitable for a variety of concerns
+
+# OOP languages 
+- Ruby
+- Scala
+- JADE
+- Emerald
+- Java
+- Python
+- C++
+- Visual Basic .NET
+- PHP
+- JavaScript
