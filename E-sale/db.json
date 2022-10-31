@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "item1",
+      "category": "food",
+      "price": 1000000000
+    },
+    {
+      "id": 2,
+      "title": "item2",
+      "category": "things",
+      "price": 100000
+    },
+    {
+      "id": 3,
+      "title": "item3",
+      "category": "drinks",
+      "price": 100000
+    },
+    {
+      "id": 4,
+      "title": "pizza",
+      "category": "food",
+      "price": 1500
+    },
+    {
+      "id": 5,
+      "title": "asp",
+      "category": "nry",
+      "price": 44550
+    },
+    {
+      "id": 6,
+      "title": "sdff",
+      "category": "asasf",
+      "price": 4450
+    },
+    {
+      "id": 7,
+      "title": "sdfsdf",
+      "category": "dsfsdf",
+      "price": 4565460
+    }
+  ]
+}
